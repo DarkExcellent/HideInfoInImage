@@ -1,2 +1,2 @@
 # HideInfoInImage
-Program for hide text information into image
+Program for hide text information into image 
